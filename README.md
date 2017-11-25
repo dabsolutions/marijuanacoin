@@ -4,19 +4,47 @@ Marijuanacoin Info
 Marijuanacoin is an X11 cryptocurrency.
 
 
+
 How to Install Marijuanacoin (unix build)
 ===========================
 
 git clone https://github.com/dabsolutions/marijuanacoin
 
-To Build
---------
+cd marijuanacoin/src
 
-cd src/
-make -f makefile.unix
+make -f makefile.unix -j(nproc)
+
+(this may take some time)
 
 
 
+How to Run Marijuanacoin (CLI)
+===========================
+
+cd
+
+cd marijuanacoin/src
+
+./Marijuanacoind &
+
+
+
+How to interact with Marijuanacoind (CLI)
+===========================
+
+cd
+
+cd marijuanacoin/src
+
+./Marijuanacoind getinfo
+
+./Marijuanacoind help 
+
+
+
+Marijuanacoin Disclaimer
+===========================
+Dab Solutions is in no way directly responsible for Marijuanacoin. Marijuanacoin is an open source project. The originial developers of Marijuanacoin have long abandoned it. The blockchain as well as the community of Marijuanacoin has since lived on and is still active today. Dab Solutions has decided to officially sponsor The Marijuanacoin Project. We will support the coin and the community with resources to the best of our ability. We howerver are not in control of Marijuanacoin, or are responsible for its future. 
 
 
 License
