@@ -1,7 +1,22 @@
 
-Marijuanacoin Development Tree
+Marijuanacoin Info
 ===========================
 Marijuanacoin is an X11 cryptocurrency.
+
+
+How to Install Marijuanacoin (unix build)
+===========================
+
+git clone https://github.com/dabsolutions/marijuanacoin
+
+To Build
+--------
+
+cd src/
+make -f makefile.unix
+
+
+
 
 
 License
