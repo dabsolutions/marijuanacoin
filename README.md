@@ -44,7 +44,7 @@ cd marijuanacoin/src
 
 Dab Solutions Disclaimer
 ===========================
-Dab Solutions is in no way directly responsible for Marijuanacoin. Marijuanacoin is an open source project. The originial developers of Marijuanacoin have long abandoned it. The blockchain as well as the community of Marijuanacoin have since lived on and are still active today. Dab Solutions has decided to officially sponsor The Marijuanacoin Project. We will support the coin and the community with resources to the best of our ability. We howerver, are not in control of Marijuanacoin, or are responsible for its future. 
+Dab Solutions is in no way directly responsible for Marijuanacoin. Marijuanacoin is an open source project with its own developers. Dab Solutions has decided to officially sponsor The Marijuanacoin Project. We will support the coin and the community with resources as well as potential use cases for Marijuanacoin. We howerver, are not in control of Marijuanacoin, or are responsible for its future. 
 
 
 License
